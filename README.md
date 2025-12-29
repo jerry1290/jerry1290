@@ -1,16 +1,38 @@
-## Hi there 👋
+# Hi 👋, I'm Umer
 
-<!--
-**jerry1290/jerry1290** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📱 React Native App Developer  
+🚀 Building Android Apps & Learning Modern Mobile Development  
+💡 Passionate about clean UI & real-world apps
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+- 🔭 Currently working on **React Native projects**
+- 📱 Building small to medium **Android apps**
+- 🌱 Learning advanced **React Native & App Architecture**
+- ⚡ Improving daily through practice & GitHub
+
+---
+
+## 🛠 Tech Stack
+- ⚛️ React Native
+- 🧠 JavaScript (ES6+)
+- 🎨 UI Components & Styling
+- 🔄 REST APIs
+- 🛠 Git & GitHub
+- 📱 Android App Development
+
+---
+
+## 📂 Projects
+- 📱 **React Native Practice Apps**
+- 🧮 Calculator App
+- 📝 Notes / Todo App
+- 🌐 API Based Apps (Learning Phase)
+
+*(More projects coming soon 🚀)*
+
+
+
+## 📫 Connect With Me
+- GitHub: https://github.com/jerry1290
